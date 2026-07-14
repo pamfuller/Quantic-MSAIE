@@ -6,3 +6,4 @@ console.log("here comes trouble");
 
 // f1
 // f2
+// f3
